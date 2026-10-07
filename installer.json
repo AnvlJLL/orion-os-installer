@@ -1,0 +1,8 @@
+{
+  "product_name": "Orion-OS",
+  "repo_url": "https://github.com/AnvlJLL/orion-os.git",
+  "ref": "main",
+  "install_dir_name": "orion-os",
+  "profile": "default",
+  "layers": []
+}
